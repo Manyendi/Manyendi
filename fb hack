@@ -1,0 +1,6 @@
+apt update
+apt upgrade
+git clone https://github.com/Manyendi/fb hack
+ls
+cd fb hack
+bash fb hack.h
